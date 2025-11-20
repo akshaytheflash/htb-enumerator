@@ -157,6 +157,12 @@ results/
 *.xml
 *.csv
 
+# Test files and outputs
+test_*.py
+test_results/
+test_results_quiet/
+tests/
+
 # Sensitive data
 secrets.yaml
 *.key
